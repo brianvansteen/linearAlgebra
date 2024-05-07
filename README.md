@@ -1,5 +1,5 @@
 # linearAlgebra
 
-@@ Jon Krohn
+## Jon Krohn
 
 ## Mike X Cohen
